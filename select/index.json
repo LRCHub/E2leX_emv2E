@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Jitsuryoku",
+  "base_artist": "Hideyoshi",
+  "createdAt": "2025-12-02T08:05:40.324496Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+      "artist": "Takahashi Ryō",
+      "has_synced": false,
+      "path": "select/01_Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e_Takahashi_Ryō.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jitsuryoku",
+      "artist": "Hideyoshi",
+      "has_synced": false,
+      "path": "select/02_Jitsuryoku_Hideyoshi.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jitsuryoku (feat. ralph & Leon Fanourakis)",
+      "artist": "Hideyoshi",
+      "has_synced": false,
+      "path": "select/03_Jitsuryoku_(feat._ralph_&_Leon_Fanourakis)_Hideyoshi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jitsuryoku (feat. Leon Fanourakis & ralph)",
+      "artist": "Hideyoshi",
+      "has_synced": false,
+      "path": "select/04_Jitsuryoku_(feat._Leon_Fanourakis_&_ralph)_Hideyoshi.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Jitsuryoku (feat",
+      "artist": "Hideyoshi, Leon Fanourakis, Ralph",
+      "has_synced": false,
+      "path": "select/05_Jitsuryoku_(feat_Hideyoshi,_Leon_Fanourakis,_Ralph.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jitsuryoku (feat. Leon Fanourakis & ralph)",
+      "artist": "Hideyoshi/Leon Fanourakis/Ralph",
+      "has_synced": true,
+      "path": "select/06_Jitsuryoku_(feat._Leon_Fanourakis_&_ralph)_Hideyoshi_Leon_Fanourakis_Ralph.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Jitsuryoku (feat. Leon Fanourakis & ralph)",
+      "artist": "Hideyoshi",
+      "has_synced": false,
+      "path": "select/pl_01_Jitsuryoku_(feat._Leon_Fanourakis_&_ralph)_Hideyoshi.txt"
+    }
+  ]
+}
